@@ -1,0 +1,14 @@
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfoInputs.cache
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.AssemblyInfo.cs
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.csproj.CoreCompileInputs.cache
+/Users/chuong/Desktop/dotnet/consoletest/bin/Debug/net8.0/consoletest
+/Users/chuong/Desktop/dotnet/consoletest/bin/Debug/net8.0/consoletest.deps.json
+/Users/chuong/Desktop/dotnet/consoletest/bin/Debug/net8.0/consoletest.runtimeconfig.json
+/Users/chuong/Desktop/dotnet/consoletest/bin/Debug/net8.0/consoletest.dll
+/Users/chuong/Desktop/dotnet/consoletest/bin/Debug/net8.0/consoletest.pdb
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.dll
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/refint/consoletest.dll
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.pdb
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/ref/consoletest.dll
