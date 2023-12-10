@@ -14,6 +14,12 @@ class Program
         }
         return b;
     }
+    static void ChiaHet3(int n){
+        if (n % 3 == 0){
+            Console.WriteLine("{0} chia het cho 3", n);
+        }
+        else Console.WriteLine("{0} khong chia het cho 3",n);
+    }
     static void BangCuuChuong(int n){
         for (int i = 1; i <= n; i++){
             Console.WriteLine("Cuu chuong {0}: ",i);
@@ -145,10 +151,7 @@ class Program
     static void Main(){
         int n = int.Parse(Console.ReadLine());
         // #1
-        // if (n % 3 == 0){
-        //     Console.WriteLine("{0} chia het cho 3", n);
-        // }
-        // else Console.WriteLine("n khong chia het cho 3");
+        ChiaHet3(n);
         // #2
         // BangCuuChuong(n);
         // #3

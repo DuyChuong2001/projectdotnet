@@ -12,3 +12,4 @@
 /Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.pdb
 /Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.genruntimeconfig.cache
 /Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/ref/consoletest.dll
+/Users/chuong/Desktop/dotnet/consoletest/obj/Debug/net8.0/consoletest.sourcelink.json
